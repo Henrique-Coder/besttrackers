@@ -1180,8 +1180,6 @@ https://tracker.imgoingto.icu/announce
 
 https://tracker.gbitt.info/announce
 
-193.189.100.190:6969
-
 http://bt.beatrice-raws.org:80/announce
 
 http://carbon-bonsai-621.appspot.com/announce
@@ -1253,8 +1251,6 @@ udp://slicie.icon256.com:8000/announce
 http://btx.anifilm.tv/announce.php
 
 http://tracker.acgnx.se/announce
-
-193.189.100.189:6969
 
 https://cernet-tracker.appspot.com:443/announce
 
@@ -1447,8 +1443,6 @@ http://tracker.ali213.net:8000/announce
 http://tracker.openbittorrent.com:80/announce
 
 http://tracker.pimp4003.net/announce
-
-193.189.100.186:6969
 
 http://tracker.ali213.net:8080/announce
 
@@ -2026,11 +2020,11 @@ http://bt-tracker.gamexp.ru:2710/announce
 
 http://185.230.4.150:1337/announce
 
-http://torrent.nwps.ws:80/announce
+udp://pow7.com:80/announce
 
 http://anidex.moe:6969/announce+
 
-udp://pow7.com:80/announce
+http://torrent.nwps.ws:80/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -2248,8 +2242,6 @@ http://openbittorrent.com:80/announce
 
 http://datascene.net:80/announce
 
-193.189.100.187:6969
-
 http://xtremewrestlingtorrents.net/announce.php
 
 http://5.188.6.45:6969/announce
@@ -2273,8 +2265,6 @@ https://opentracker.cc:443/announce
 udp://devops.gay:6969/announce
 
 udp://[2a00:b700:1::3:1dc]:8080/announce
-
-udp://tracker.openbittorrent.com:80
 
 http://atrack.pow7.com/announce
 
@@ -2929,8 +2919,6 @@ http://www.genesis-sp.org:2710/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
-
-193.189.100.188:6969
 
 udp://incine.ru:6969/announce
 
