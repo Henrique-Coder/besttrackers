@@ -438,6 +438,8 @@ http://83.6.234.75:6969/announce
 
 http://thitgaluoc.dynu.net:6969/announce
 
+193.42.111.57:9337
+
 https://tracker.kitaujisub.site/announce.php?authkey=213|10003|j46n2q
 
 udp://opentracker.io:6969/announce
@@ -1180,8 +1182,6 @@ https://tracker.imgoingto.icu/announce
 
 https://tracker.gbitt.info/announce
 
-193.189.100.190:6969
-
 http://bt.beatrice-raws.org:80/announce
 
 http://carbon-bonsai-621.appspot.com/announce
@@ -1253,8 +1253,6 @@ udp://slicie.icon256.com:8000/announce
 http://btx.anifilm.tv/announce.php
 
 http://tracker.acgnx.se/announce
-
-193.189.100.189:6969
 
 https://cernet-tracker.appspot.com:443/announce
 
@@ -1447,8 +1445,6 @@ http://tracker.ali213.net:8000/announce
 http://tracker.openbittorrent.com:80/announce
 
 http://tracker.pimp4003.net/announce
-
-193.189.100.186:6969
 
 http://tracker.ali213.net:8080/announce
 
@@ -1910,8 +1906,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://83.102.180.21:80/announce
 
-51.81.222.188:6969
-
 http://www.legittorrents.info/announce.php
 
 udp://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -2251,8 +2245,6 @@ http://openbittorrent.com:80/announce
 198.100.149.66:6969
 
 http://datascene.net:80/announce
-
-193.189.100.187:6969
 
 http://xtremewrestlingtorrents.net/announce.php
 
@@ -2933,8 +2925,6 @@ http://www.genesis-sp.org:2710/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
-
-193.189.100.188:6969
 
 udp://incine.ru:6969/announce
 
