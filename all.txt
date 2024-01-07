@@ -42,6 +42,8 @@ https://tk.mabo.ltd/announce
 
 http://trackers.ydns.eu:10036/announce
 
+udp://107.189.11.58:6969/announce
+
 http://45.154.98.215:6969/announce
 
 udp://mail.segso.net:6969/announce
@@ -77,8 +79,6 @@ udp://aaa.army:8866/announce
 http://tracker3.dler.org:2710/announce
 
 udp://104.143.10.186:8000/announce
-
-udp://104.244.77.14:1337/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
@@ -256,6 +256,8 @@ udp://ftp.pet:2710/announce
 
 http://179.100.24.134:6969/announce
 
+udp://86.57.161.157:6969/announce
+
 https://open.kickasstracker.com:443/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -315,6 +317,8 @@ http://tracker.gigatorrents.ws:2710/announce
 http://tracker.bittorrent.nibblepoker.lu:49227/announce
 
 udp://shizzle.hammetjus.nl:6969/announce
+
+udp://193.189.100.186:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -429,6 +433,8 @@ udp://tracker.openbittorrent.com:6969/announce
 udp://49.12.76.8:8080/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://185.225.68.26:6969/announce
 
 udp://209.126.11.233:6969/announce
 
@@ -635,8 +641,6 @@ http://187.57.14.62:6969/announce
 http://siambit.org/announce.php
 
 http://bt.rghost.net/announce
-
-udp://61.216.149.33:6969/announce
 
 http://milliontorrent.pl/announce.php
 
@@ -1182,6 +1186,8 @@ https://tracker.imgoingto.icu/announce
 
 https://tracker.gbitt.info/announce
 
+193.189.100.190:6969
+
 http://bt.beatrice-raws.org:80/announce
 
 http://carbon-bonsai-621.appspot.com/announce
@@ -1253,6 +1259,8 @@ udp://slicie.icon256.com:8000/announce
 http://btx.anifilm.tv/announce.php
 
 http://tracker.acgnx.se/announce
+
+193.189.100.189:6969
 
 https://cernet-tracker.appspot.com:443/announce
 
@@ -1354,6 +1362,8 @@ udp://laze.cc:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
+udp://91.216.110.53:451/announce
+
 udp://hz.is:3000/announce
 
 http://222.216.138.63:6969/announce
@@ -1445,6 +1455,8 @@ http://tracker.ali213.net:8000/announce
 http://tracker.openbittorrent.com:80/announce
 
 http://tracker.pimp4003.net/announce
+
+193.189.100.186:6969
 
 http://tracker.ali213.net:8080/announce
 
@@ -1586,8 +1598,6 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://aarsen.me:6969/announce
 
-udp://193.189.100.190:6969/announce
-
 udp://94.243.222.100:6969/announce
 
 http://83.31.212.134:6969/announce
@@ -1701,8 +1711,6 @@ udp://fosstorrents.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
 
 udp://tracker2.dler.com:80/announce
-
-http://152.70.169.118:1919/announce
 
 http://mail.lakameraobscura.com:6969/announce
 
@@ -2246,6 +2254,8 @@ http://openbittorrent.com:80/announce
 
 http://datascene.net:80/announce
 
+193.189.100.187:6969
+
 http://xtremewrestlingtorrents.net/announce.php
 
 http://5.188.6.45:6969/announce
@@ -2325,6 +2335,8 @@ http://masters-tb.com/announce.php
 http://anidex.moe:6969/announce
 
 http://144.76.118.107:6969/announce
+
+udp://220.130.15.30:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -2465,8 +2477,6 @@ http://canardscitrons.nohost.me:6969/announce
 http://frp.v2fy.com:8000/announce
 
 udp://109.201.134.183:80/announce
-
-udp://209.141.59.16:6969/announce
 
 http://servandroidkino.ru:80/announce
 
@@ -2926,6 +2936,8 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
+193.189.100.188:6969
+
 udp://incine.ru:6969/announce
 
 http://85.215.156.254:6969/announce
@@ -2993,8 +3005,6 @@ http://www.all4nothin.net/announce.php
 http://unknownsite.de:6969/announce
 
 udp://home.yxgz.club:6969/announce
-
-udp://117.29.108.19:2710/announce
 
 http://tracker.filemail.com:6969/announce
 
