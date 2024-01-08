@@ -42,8 +42,6 @@ https://tk.mabo.ltd/announce
 
 http://trackers.ydns.eu:10036/announce
 
-udp://107.189.11.58:6969/announce
-
 http://45.154.98.215:6969/announce
 
 udp://mail.segso.net:6969/announce
@@ -79,6 +77,8 @@ udp://aaa.army:8866/announce
 http://tracker3.dler.org:2710/announce
 
 udp://104.143.10.186:8000/announce
+
+udp://104.244.77.14:1337/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
@@ -150,6 +150,8 @@ http://torrent.mp3quran.net/announce.php
 
 udp://207.241.226.111:6969/announce
 
+udp://120.36.84.125:2710/announce
+
 udp://freedomalternative.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
@@ -207,6 +209,8 @@ https://tr.fuckbitcoin.xyz/announce
 udp://public-tracker.ml:6969/announce
 
 http://alpha.torrenttracker.nl:443/announce
+
+222.216.138.154:6969
 
 http://bt2.archive.org:6969/announce
 
@@ -317,8 +321,6 @@ http://tracker.gigatorrents.ws:2710/announce
 http://tracker.bittorrent.nibblepoker.lu:49227/announce
 
 udp://shizzle.hammetjus.nl:6969/announce
-
-udp://193.189.100.186:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -433,8 +435,6 @@ udp://tracker.openbittorrent.com:6969/announce
 udp://49.12.76.8:8080/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://185.225.68.26:6969/announce
 
 udp://209.126.11.233:6969/announce
 
@@ -587,6 +587,8 @@ https://tracker.dmhy.pw/announce
 http://99.192.12.191:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
+
+udp://tracker.rev.pm:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -898,8 +900,6 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://94.103.87.87:6969/announce
 
-http://189.0.78.39:6969/announce
-
 http://bt02.nnm-club.info:2710/announce
 
 211.75.29.254:6969
@@ -1186,8 +1186,6 @@ https://tracker.imgoingto.icu/announce
 
 https://tracker.gbitt.info/announce
 
-193.189.100.190:6969
-
 http://bt.beatrice-raws.org:80/announce
 
 http://carbon-bonsai-621.appspot.com/announce
@@ -1259,8 +1257,6 @@ udp://slicie.icon256.com:8000/announce
 http://btx.anifilm.tv/announce.php
 
 http://tracker.acgnx.se/announce
-
-193.189.100.189:6969
 
 https://cernet-tracker.appspot.com:443/announce
 
@@ -1362,8 +1358,6 @@ udp://laze.cc:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
-udp://91.216.110.53:451/announce
-
 udp://hz.is:3000/announce
 
 http://222.216.138.63:6969/announce
@@ -1455,8 +1449,6 @@ http://tracker.ali213.net:8000/announce
 http://tracker.openbittorrent.com:80/announce
 
 http://tracker.pimp4003.net/announce
-
-193.189.100.186:6969
 
 http://tracker.ali213.net:8080/announce
 
@@ -1586,11 +1578,7 @@ http://83.6.226.63:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
-udp://5.102.159.190:6969/announce
-
 http://share.hkg-fansub.info/announce.php
-
-51.159.145.55:6969
 
 https://tr.ready4.icu:443/announce
 
@@ -1714,6 +1702,8 @@ udp://tracker.t-rb.org:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
+http://152.70.169.118:1919/announce
+
 http://mail.lakameraobscura.com:6969/announce
 
 http://tracker.hiyj.cn:80/announce
@@ -1749,6 +1739,8 @@ http://83.6.209.31:6969/announce
 https://tracker.bt4g.com:443/announce
 
 http://tracker.ccc.de/announce
+
+udp://61.222.178.254:6969/announce
 
 https://tr.abir.ga/announce
 
@@ -2034,11 +2026,11 @@ http://bt-tracker.gamexp.ru:2710/announce
 
 http://185.230.4.150:1337/announce
 
-http://torrent.nwps.ws:80/announce
+udp://pow7.com:80/announce
 
 http://anidex.moe:6969/announce+
 
-udp://pow7.com:80/announce
+http://torrent.nwps.ws:80/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -2256,8 +2248,6 @@ http://openbittorrent.com:80/announce
 
 http://datascene.net:80/announce
 
-193.189.100.187:6969
-
 http://xtremewrestlingtorrents.net/announce.php
 
 http://5.188.6.45:6969/announce
@@ -2281,8 +2271,6 @@ https://opentracker.cc:443/announce
 udp://devops.gay:6969/announce
 
 udp://[2a00:b700:1::3:1dc]:8080/announce
-
-udp://tracker.openbittorrent.com:80
 
 http://atrack.pow7.com/announce
 
@@ -2337,8 +2325,6 @@ http://masters-tb.com/announce.php
 http://anidex.moe:6969/announce
 
 http://144.76.118.107:6969/announce
-
-udp://220.130.15.30:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -2480,6 +2466,8 @@ http://frp.v2fy.com:8000/announce
 
 udp://109.201.134.183:80/announce
 
+udp://209.141.59.16:6969/announce
+
 http://servandroidkino.ru:80/announce
 
 udp://10.rarbg.com:6969/announce
@@ -2599,8 +2587,6 @@ https://tr.torland.ga:443/announce
 http://97.117.75.139:9000/announce
 
 https://grifon.info:80/announce
-
-udp://tracker.vraphim.com:6969/announce
 
 http://baibako.tv:80/announce
 
@@ -2938,8 +2924,6 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
-193.189.100.188:6969
-
 udp://incine.ru:6969/announce
 
 http://85.215.156.254:6969/announce
@@ -3175,8 +3159,6 @@ https://tracker.publictorrent.net:443/announce
 http://torrents.linuxmint.com:80/announce
 
 185.50.159.149:6969
-
-udp://73.170.204.100:6969/announce
 
 http://tracker.breizh.pm:6969/announce
 
