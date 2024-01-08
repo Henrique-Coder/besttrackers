@@ -1186,6 +1186,8 @@ https://tracker.imgoingto.icu/announce
 
 https://tracker.gbitt.info/announce
 
+193.189.100.190:6969
+
 http://bt.beatrice-raws.org:80/announce
 
 http://carbon-bonsai-621.appspot.com/announce
@@ -1257,6 +1259,8 @@ udp://slicie.icon256.com:8000/announce
 http://btx.anifilm.tv/announce.php
 
 http://tracker.acgnx.se/announce
+
+193.189.100.189:6969
 
 https://cernet-tracker.appspot.com:443/announce
 
@@ -1366,6 +1370,8 @@ http://222.216.138.63:6969/announce
 
 http://tracker.computel.fr/announce
 
+83.102.180.21:80
+
 http://160.251.78.190:6969/announce
 
 http://bt2.edwardk.info:6969/announce
@@ -1450,6 +1456,8 @@ http://tracker.openbittorrent.com:80/announce
 
 http://tracker.pimp4003.net/announce
 
+193.189.100.186:6969
+
 http://tracker.ali213.net:8080/announce
 
 http://tracker.anirena.com/announce
@@ -1465,6 +1473,8 @@ http://116.9.207.226:6969/announce
 http://milliontorrent.pl:80/announce
 
 https://tracker.dnlab.net/announce
+
+udp://tracker.vds.nz:6969/announce
 
 https://t3.leech.ie:443/announce
 
@@ -2246,6 +2256,8 @@ http://openbittorrent.com:80/announce
 
 http://datascene.net:80/announce
 
+193.189.100.187:6969
+
 http://xtremewrestlingtorrents.net/announce.php
 
 http://5.188.6.45:6969/announce
@@ -2926,6 +2938,8 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
+193.189.100.188:6969
+
 udp://incine.ru:6969/announce
 
 http://85.215.156.254:6969/announce
@@ -2949,8 +2963,6 @@ http://51.79.71.167/announce
 udp://tracker.cyberia.is:6969/announce
 
 http://tracker2.dler.org/announce
-
-222.216.138.63:6969
 
 https://tracker.cloudit.top/announce
 
